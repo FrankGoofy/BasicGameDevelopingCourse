@@ -1,2 +1,2 @@
 # BasicGameDevelopingCourse
-Bbasic game developing homework after class.
+Basic game developing homework after class.
